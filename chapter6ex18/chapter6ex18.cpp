@@ -1,5 +1,9 @@
-// chapter6ex18.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+File neame: chapter6ex18.cpp
+Programmer: Perrin D
+Requirements;
+make a cost calulator for a painting buisness
+*/
 
 #include <iostream>
 #include <iomanip>
